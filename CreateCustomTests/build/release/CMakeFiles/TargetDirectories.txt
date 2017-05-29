@@ -1,5 +1,0 @@
-C:/Users/Dimitris/Desktop/BuildLibAndTests/build/release/CMakeFiles/ALL_BUILD.dir
-C:/Users/Dimitris/Desktop/BuildLibAndTests/build/release/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Dimitris/Desktop/BuildLibAndTests/build/release/Library1/CMakeFiles/Library1.dir
-C:/Users/Dimitris/Desktop/BuildLibAndTests/build/release/Test1/CMakeFiles/Test1.dir
-C:/Users/Dimitris/Desktop/BuildLibAndTests/build/release/Application1/CMakeFiles/Application1.dir
