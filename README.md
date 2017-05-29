@@ -21,7 +21,7 @@ Move to CreateCustomTests folder:
 
 <br />
 
-Make project, build and run test and application:
+Now, open VS Developer tools, Make project, build and run test and application.
 <br />
     
 	commands.cmd
