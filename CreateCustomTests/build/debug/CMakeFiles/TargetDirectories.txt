@@ -1,0 +1,5 @@
+C:/Users/Dimitris/Desktop/BuildLibAndTests/build/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dimitris/Desktop/BuildLibAndTests/build/debug/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dimitris/Desktop/BuildLibAndTests/build/debug/Library1/CMakeFiles/Library1.dir
+C:/Users/Dimitris/Desktop/BuildLibAndTests/build/debug/Test1/CMakeFiles/Test1.dir
+C:/Users/Dimitris/Desktop/BuildLibAndTests/build/debug/Application1/CMakeFiles/Application1.dir
